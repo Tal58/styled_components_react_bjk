@@ -14,7 +14,7 @@ function Footer() {
   return (
     <CoveredDiv>
       <FooterImg>
-        <Logo2 src="./images/logo2.png" />
+        <Logo2 src="./images/Logo2.png" />
       </FooterImg>
 
       <FooterDiv>
